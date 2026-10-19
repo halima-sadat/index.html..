@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<¡--ESTILO--!>
+
+    <body>
+        <¡--MENU---!>
+            <h1>Cine Esterella</h1>
+            <p>La cartelera de esta esmana en el cine de barrio.</p>
+            <h2>En cartel</h2>
+            <ul>
+                <li>La ultima sesion (drama, 112 min)</li>
+                <li>Rumbo a la luna (animacion , 95 min)</li>
+                <li>El misterion del faro (suspenese , 104min)</li>
+            </ul>
+            <¡--PIE--!>
+
+    </body>
+
+</html>
